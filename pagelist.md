@@ -44,6 +44,7 @@ authors:
 * [ページ一覧](pagelist.md)
 
 ## ま行
+* [豆知識](articles/2019/09/21/tips.html)
 * [メインページ](README.md)
 
 ## ら行
