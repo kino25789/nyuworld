@@ -14,7 +14,7 @@ authors:
 詳細は[こちらの記事](articles/2019/09/21/trespassed-at-the-end.html)でご確認ください。
 
 ## 利用規約(にゅうワールド法とにゅうウィキ法)
-[ここ](LICENSE.md)から読む事ができます。<br />
+[こ↑こ↓](LICENSE.md)から読む事ができます。<br />
 サーバーに参加する場合は必ずお読みください。<br />
 また、サーバーに参加している場合は同意したものとみなします。
 
@@ -36,6 +36,22 @@ authors:
 	* 歴代のロゴを見る事ができます。
 * [このWikiで利用しているソフトウェア](using_softwares.md)
 	* サイトを運用する上で利用しているソフトウェアの一覧です。
+
+## 安育神社・おみくじ
+安育神社のWebおみくじサービスです。<br />
+あなたの今日の運勢を占ってみては？<br />
+<button OnClick="jumpToResult(); return false;">占う！</button>
+<script type="text/javascript" language="JavaScript">
+function jumpToResult()
+{
+	var addr = new Array();
+	addr[0] = "0000";
+	addr[1] = "0001";
+	addr[2] = "0002";
+	var i = Math.floor(Math.random() * addr.length);
+	location.href = "https://takym.github.io/nyuworld/omikuji/" + addr[i] + ".html";
+}
+</script>
 
 ## [全てのページ](pagelist.md)
 ここから全てのページを確認する事ができます。

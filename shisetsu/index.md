@@ -8,7 +8,7 @@ authors:
 
 ## 共有倉庫
 ワールド参加者が誰でも利用できるアイテムを格納した倉庫です。<br />
-使い過ぎには気を付けましょう。
+使い過ぎには気を付けましょう。<br />
 <img src="2019-09-19_shared-storage_00.png" width="420" alt="共有倉庫 0" title="共有倉庫 0" /><br />
 <img src="2019-09-19_shared-storage_01.png" width="420" alt="共有倉庫 1" title="共有倉庫 1" />
 ### 屋上「屋根」
