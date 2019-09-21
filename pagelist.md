@@ -26,6 +26,7 @@ authors:
 * [タグ別記事一覧](articles/tags.md) (パソコン向け)
 * [ただの日記](articles/2019/09/17/diary.html)
 * [単語の解説](words.md)
+* [盗難にご注意を！](articles/2019/09/21/theft.html)
 
 ## な行
 * [ネザーの地図](maps/nether.md)

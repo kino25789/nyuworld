@@ -14,7 +14,7 @@ authors:
 看板設置等の対策を行いましたが、無視されました。<br />
 それどころか、注意書きの看板の破壊まで行われました。<br />
 なので、今現在は以下の様にエンドポータルは黒曜石で保護されています。<br />
-<img src="https://takym.github.io/nyuworld/articles/2019-09-21-protected-end-portal.png" width="600" /><br />
+<img src="https://takym.github.io/nyuworld/articles/2019-09-21-protected-end-portal.jpg" width="600" /><br />
 この状態で黒曜石が破壊されエンドに侵入した場合は確実に荒らしでしょう。<br />
 また、侵入された場合はエンドのリセットが行われます。<br />
 この場合は現世やネザーのリセットは行われませんので安心してください。<br />
