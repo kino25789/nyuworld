@@ -10,6 +10,13 @@ authors:
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">紳士鯖民へ<br><br>こんだけ人数が多いと、僕の命令を無視して勝手に行動したり、不祥事を起こす人が出てきてもおかしくないです。<br><br>だからといって犯人探しに躍起になって、ギスギスした空気になるのはよろしくない。<br><br>楽しく遊ぶ。これを大事に。<br>多少のトラブルは目をつむりましょう。</p>&mdash; Hamano Y＠ゆっくり実況者 (@Hamakun_U) <a href="https://twitter.com/Hamakun_U/status/1174701628584280064?ref_src=twsrc%5Etfw">2019年9月19日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+## 重要掲示板
+ワールドのリスポーン地点に置かれている重要掲示板です。<br />
+ここに書いてある事も守ってください。<br />
+<img src="assets/2019-09-21_license0.png" width="500" /><br />
+<img src="assets/2019-09-21_license1.png" width="500" /><br />
+<img src="assets/2019-09-21_license2.png" width="500" />
+
 ## にゅうワールド法
 ### 適用範囲
 **Hamanoさんの Minecraft Realms サーバーの「にゅうワールド」**
@@ -42,7 +49,7 @@ authors:
 
 ### 第陸条 (第六条)
 <u>いかなる場合においても</u>、**Hamanoさん**の許可無しにワールドに関する**大規模な干渉**することを禁ずる。
-1. エンドの開通、及び、エンダードラゴンの盗伐。
+1. エンドの開通、及び、エンダードラゴンの討伐。
 2. 外部ツールを利用する事による不正。
 	* クリエイティブモード、チートコマンド、等
 
@@ -61,6 +68,8 @@ authors:
 にゅうワールド法は何か問題が起きる度に規約を更新します。
 
 ### 変更
+* **2019/09/22**: 重要掲示板追加。
+* **2019/09/22**: 誤字の修正。
 * **2019/09/21**: 漢数字を大字に変更。
 * **2019/09/20**: 第八条追加。
 * **2019/09/19**: 要約追加。
