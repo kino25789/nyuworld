@@ -24,6 +24,6 @@ Hamanoさんはエンドラ討伐を動画に収めたいらしいので、エ�
 
 ## 追記 (9/22)
 エンドポータルの黒曜石の保護も破壊されました。<br />
-<img src="https://takym.github.io/nyuworld/articles/2019-09-22-end-protection-broken.ong" width="600" /><br />
+<img src="https://takym.github.io/nyuworld/articles/2019-09-22-end-protection-broken.png" width="600" /><br />
 現在は黒曜石の保護は修復され二重になっています。<br />
 エンドへの侵入は修復作業が大変ですので、本当にご遠慮下さい。
