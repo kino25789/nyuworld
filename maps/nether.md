@@ -10,5 +10,8 @@ authors:
 * [現世(げんせ, Overworld)](index.md)
 
 ## 拠点周辺
+### 2019年09月23日
+<img src="2019-09-23-nether.jpg" alt="地獄ネザー" title="2019/09/23 の地図" width="512" />
+
 ### 2019年09月16日
 <img src="2019-09-16-nether.jpg" alt="地獄ネザー" title="2019/09/16 の地図" width="512" />
