@@ -11,18 +11,22 @@ authors:
 使い過ぎには気を付けましょう。<br />
 <img src="2019-09-19_shared-storage_00.png" width="420" alt="共有倉庫 0" title="共有倉庫 0" /><br />
 <img src="2019-09-19_shared-storage_01.png" width="420" alt="共有倉庫 1" title="共有倉庫 1" />
+
 ### 屋上「屋根」
 <img src="2019-09-19_shared-storage_05.png" width="420" alt="共有倉庫 5" title="共有倉庫 5" /><br />
 ただの屋根です。何もありません。屋上としても使う事ができます。
+
 ### 地上2階「ロッカー」
 <img src="2019-09-19_shared-storage_04.png" width="420" alt="共有倉庫 4" title="共有倉庫 4" /><br />
 アイテムを保管しておく為のロッカーがあります。<br />
 利用中のロッカーからアイテムを盗むのは禁止です。<br />
 ここには、南北線と海砂森雪線の駅もあります。
+
 ### 地上1階「全般倉庫」
 <img src="2019-09-19_shared-storage_02.png" width="420" alt="共有倉庫 2" title="共有倉庫 2" /><br />
 <img src="2019-09-19_shared-storage_03.png" width="420" alt="共有倉庫 3" title="共有倉庫 3" /><br />
 全般的に使われるアイテムがあります。
+
 ### 地下1階「特殊倉庫」
 <img src="2019-09-19_shared-storage_06.png" width="420" alt="共有倉庫 6" title="共有倉庫 6" /><br />
 特殊な用途で使われるアイテムがあります。<br />
@@ -33,13 +37,16 @@ authors:
 ## 作業場
 クラフト、製錬、醸造、エンチャント等の作業をする場所です。<br />
 <img src="2019-09-19_working-room_00.png" width="420" alt="共有倉庫 0" title="共有倉庫 0" />
+
 ### 地上3階
 <img src="2019-09-19_working-room_04.png" width="420" alt="共有倉庫 4" title="共有倉庫 4" /><br />
-SlackSheep さんの別邸です。
+※現在は誰にも利用されていません。
+
 ### 地上2階
 <img src="2019-09-19_working-room_03.png" width="420" alt="共有倉庫 3" title="共有倉庫 3" /><br />
 エンチャント施設です。<br />
 エンチャ台と金床があります。
+
 ### 地上1階
 <img src="2019-09-19_working-room_01.png" width="420" alt="共有倉庫 1" title="共有倉庫 1" /><br />
 <img src="2019-09-19_working-room_02.png" width="420" alt="共有倉庫 2" title="共有倉庫 2" /><br />
