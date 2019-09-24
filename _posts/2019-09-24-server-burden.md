@@ -9,7 +9,7 @@ authors:
 ---
 昨日の深夜(23時半頃)にまた描画バグが発生しました。<br />
 場所はリスポーン地点周辺の共有倉庫前でした。<br />
-<img src="https://takym.github.io/nyuworld/articles/2019-09-24-graphics-bug.png" width="600" /><br />
+<img src="https://takym.github.io/nyuworld/articles/2019-09-24-graphics-bug.jpg" width="600" /><br />
 描画バグは何時何処で発生するか分からず、原因は不明ですが、サーバーの負荷が一番可能性が高そうです。<br />
 そもそも、描画バグはサーバーからブロック情報を読み出す事に失敗して、<br />
 実際に存在しているブロックが見えなくなる不具合です。<br />
