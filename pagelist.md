@@ -25,6 +25,7 @@ authors:
 
 ## さ行
 * [サンプル記事](articles/2019/08/15/sample.html)
+* [サーバー負荷の解放](articles/2019/09/24/server-burden.html)
 
 ## た行
 * [タグ別記事一覧](articles/taglist.md) (スマホ向け)

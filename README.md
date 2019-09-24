@@ -9,6 +9,8 @@ authors:
 [#紳士鯖](https://mobile.twitter.com/hashtag/%E7%B4%B3%E5%A3%AB%E9%AF%96?src=hash)でツイートしよう！
 
 ## !!! 注意事項 !!!
+現在、サーバーが重くなっていたり、描画バグが発生したりしています。<br />
+詳細は[こちらの記事](articles/2019/09/24/server-burden.html)でご確認ください。<br />
 エンドへの侵入は固く禁じられています。<br />
 また、侵入した人を見かけたら早めに運営に伝えてください。<br />
 詳細は[こちらの記事](articles/2019/09/21/trespassed-at-the-end.html)でご確認ください。
