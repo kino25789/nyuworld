@@ -9,6 +9,9 @@ authors:
 ## D
 * [Discord チャンネル一覧](discord.md)
 
+## H
+* [Hamanoさんの紳士鯖動画](articles/2019/09/25/hamano-san-no-douga.html)
+
 ## 記号
 * [【悲報】エンドへの不法侵入](articles/2019/09/21/trespassed-at-the-end.html)
 
