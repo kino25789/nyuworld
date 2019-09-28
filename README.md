@@ -10,7 +10,7 @@ authors:
 
 ## !!! 注意事項 !!!
 現在、サーバーが重くなっていたり、描画バグが発生したりしています。<br />
-詳細は[こちらの記事](articles/2019/09/24/server-burden.html)でご確認ください。<br />
+詳細は[こちらの記事](articles/2019/09/28/distribution-of-burden.html)でご確認ください。<br />
 エンドへの侵入は固く禁じられています。<br />
 また、侵入した人を見かけたら早めに運営に伝えてください。<br />
 詳細は[こちらの記事](articles/2019/09/21/trespassed-at-the-end.html)でご確認ください。
