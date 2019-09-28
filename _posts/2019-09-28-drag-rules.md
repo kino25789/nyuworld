@@ -9,7 +9,7 @@ authors:
   - Takym
 ---
 miniopossumさんが薬物に関しての法律を制定してくれました。<br />
-ネタルールを投稿すると[利用規約](https://takym.github.io/nyuworld/LICENSE.md)に載ります。
+ネタルールを投稿すると[利用規約](https://takym.github.io/nyuworld/LICENSE.html)に載ります。
 
 1. 個人目的での薬物の売買、使用を禁ずる(幸せ草、覚醒剤）
 2. 乾燥大麻は医療で使う場合合法とする
