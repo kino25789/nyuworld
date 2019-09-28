@@ -53,6 +53,9 @@ authors:
 * [豆知識](articles/2019/09/21/tips.html)
 * [メインページ](README.md)
 
+## や行
+* [薬物に関しての法律](articles/2019/09/28/drag-rules.html)
+
 ## ら行
 * [利用規約](LICENSE.md)
 * [利用ソフトウェア一覧](using_softwares.md)
