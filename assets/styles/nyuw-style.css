@@ -67,3 +67,17 @@ u {
 	border-bottom-color: #FF77FF;
 	text-decoration: none;
 }
+blockquote {
+	border-left-style: solid;
+	border-left-width: 5px;
+	border-left-color: #DEDEDE;
+	color: #404040;
+}
+blockquote::before {
+	content: "「";
+	color: #FF4488;
+}
+blockquote::after {
+	content: "」";
+	color: #8844FF;
+}
