@@ -24,3 +24,12 @@ authors:
 
 ### 2019年09月14日
 <img src="2019-09-14-amagawa.png" alt="天河地方の地図" title="2019/09/14 の地図" width="512" />
+
+## 新地方、西部地方
+まだ名称は決まっていません！現在募集中です！
+
+## 荷産地方(にさんちほう, TTF Spawners District)
+### 名前の由来
+荷産は2と3の音価を表しており、また、「荷を産む」という言葉の省略となっています。<br />
+英語名の TTF は Two, Three, Four と Trap Tower Forever のかばん語です。<br />
+決して True Type Font の名称盗用ではありませんので、間違えないで頂きたい。
