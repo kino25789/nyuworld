@@ -5,5 +5,6 @@ authors:
 ---
 住所登録表です。<br />
 追加・間違い等ある場合はDiscordで運営に知らせてください。<br />
-下のバーを利用するとExcelファイルを表示する事ができます。<br />
+<a href="https://1drv.ms/x/s!Amg9GxqMOKw-gdU_i7Kybs2gGrehfg" target="_blank">
+別のウィンドウでExcelファイルを開く</a><br />
 <iframe width="768" height="1024" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=3EAC388C1A1B3D68%2127327&authkey=%21AHDAJghfE-CgjtE&em=2&wdAllowInteractivity=False&wdHideHeaders=True&wdInConfigurator=True"></iframe>
