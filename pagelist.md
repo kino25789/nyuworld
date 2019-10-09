@@ -16,6 +16,7 @@ authors:
 * [【悲報】エンドへの不法侵入](articles/2019/09/21/trespassed-at-the-end.html)
 
 ## あ行
+* [天河地方の地図](maps/amagawa.md)
 * [御神籤之結果 0000](omikuji/0000.md)
 * [御神籤之結果 0001](omikuji/0001.md)
 * [御神籤之結果 0002](omikuji/0002.md)
