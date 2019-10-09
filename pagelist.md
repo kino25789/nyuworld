@@ -41,9 +41,10 @@ authors:
 * [盗難にご注意を！](articles/2019/09/21/theft.html)
 
 ## な行
-* [ネザーの地図](maps/nether.md)
 * [にゅうライン](nyuwline/index.md)
 * [にゅうライン 昔の路線図](nyuwline/old-routes.md)
+* [ネザーの地図](maps/nether.md)
+* [ネタ枠一覧](netawaku.html)
 
 ## は行
 * [描画バグ、再び発生！](articles/2019/09/18/bug-again.html)
