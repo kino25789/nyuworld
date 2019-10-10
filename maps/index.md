@@ -30,10 +30,13 @@ authors:
 また、鳳鏡、奉興、峰郷とも呼ばれています。(当て字募集中です。)
 
 ### 2019年10月05日
-<img src="2019-10-05-houkyo.png" alt="ほうきょう地方の地図" title="2019/10/05 の地図" width="512" />
+<img src="2019-10-05-houkyo.png" alt="宝京地方の地図" title="2019/10/05 の地図" width="512" />
 
 ## 荷産地方(にさんちほう, TTF Spawners District, 荷TTFS)
 ### 名前の由来
 荷産は2と3の音価を表しており、また、「荷を産む」という言葉の省略となっています。<br />
 英語名の TTF は Two, Three, Four と Trap Tower Forever のかばん語です。<br />
 決して True Type Font の名称盗用ではありませんので、間違えないで頂きたい。
+
+### 2019年10月10日
+<img src="2019-10-10-nisan.png" alt="宝京地方の地図" title="2019/10/05 の地図" width="512" />
