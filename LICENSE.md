@@ -112,4 +112,4 @@ authors:
 にゅうウィキ法が必ず優先される事を絶対に忘れないでください。
 
 * [薬物に関しての法律](articles/2019/09/28/drag-rules.html)
-* [人身売買の法律](articles/2019/09/28/villager-rules.html)
+* [人身売買の法律 第2版](articles/2019/10/10/villager-rules2.html)
