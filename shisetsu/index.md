@@ -65,3 +65,7 @@ authors:
 ## 饒露結蹟神社
 <img src="2019-09-29_nyorokesseki-jinja.png" width="420" alt="饒露結蹟神社" title="饒露結蹟神社"><br />
 「にょうろけっせき」と読むらしいです。
+
+## 村紹介
+酸素原子さんが寄稿してくれました。
+* [村紹介](village.md)

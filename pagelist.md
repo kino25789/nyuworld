@@ -58,6 +58,7 @@ authors:
 ## ま行
 * [豆知識](articles/2019/09/21/tips.html)
 * [豆知識まとめ(9月22日～9月29日)](articles/2019/09/29/tips2.html)
+* [村紹介](shisetsu/village.md)
 * [メインページ](README.md)
 
 ## や行
@@ -67,4 +68,3 @@ authors:
 * [利用規約](LICENSE.md)
 * [利用ソフトウェア一覧](using_softwares.md)
 * [歴代のロゴ](logos/index.md)
-
