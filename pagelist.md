@@ -26,6 +26,7 @@ authors:
 * [建築物・施設の情報](shisetsu/index.md)
 * [現世の地図](maps/index.md)
 * [このWikiとsyswikiとの関係](articles/2019/09/17/what-syswiki.html)
+* [このウィキの編集方法](articles/2019/10/12/github.html)
 
 ## さ行
 * [サンプル記事](articles/2019/08/15/sample.html)
