@@ -23,6 +23,7 @@ authors:
 
 ## か行
 * [記事の追加方法](articles/2019/08/15/how-to-add-new-post.html)
+* [記念碑紹介](shisetsu/monument.md)
 * [建築物・施設の情報](shisetsu/index.md)
 * [現世の地図](maps/index.md)
 * [このWikiとsyswikiとの関係](articles/2019/09/17/what-syswiki.html)
