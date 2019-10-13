@@ -33,6 +33,9 @@ authors:
 <img src="2019-10-05-houkyo.png" alt="宝京地方の地図" title="2019/10/05 の地図" width="512" />
 
 ## 荷産地方(にさんちほう, TTF Spawners District, 荷TTFS)
+### 主な施設
+* [四連スポナー](nisan/quad_spawners.md)
+
 ### 名前の由来
 荷産は2と3の音価を表しており、また、「荷を産む」という言葉の省略となっています。<br />
 英語名の TTF は Two, Three, Four と Trap Tower Forever のかばん語です。<br />

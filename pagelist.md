@@ -63,6 +63,7 @@ authors:
 
 ## や行
 * [薬物に関しての法律](articles/2019/09/28/drag-rules.html)
+* [四連スポナー](shisetsu/nisan/quad_spawners.html)
 
 ## ら行
 * [利用規約](LICENSE.md)
