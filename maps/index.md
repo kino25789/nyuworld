@@ -57,8 +57,9 @@ authors:
 経験値やアイテムが欲しい方はこの地方に行くといいでしょう。
 
 ### 主な施設
-* [四連スポナー](nisan/quad_spawners.md)
-* 二チャンクスライムトラップ
+* [四連スポナー](../shisetsu/nisan/quad_spawners.md)
+	* 他の細かい施設の情報も載っています。
+* [スライムトラップ](../shisetsu/nisan/slime_trap.md)
 * 二連天空トラップ(?)
 
 ### 名前の由来

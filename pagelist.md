@@ -35,6 +35,7 @@ authors:
 * [住所登録表](maps/addr.md)
 * [人身売買の法律](articles/2019/09/28/villager-rules.html)
 * [人身売買の法律 第2版](articles/2019/10/10/villager-rules2.html)
+* [スライムトラップ](shisetsu/nisan/slime_trap.md)
 
 ## た行
 * [タグ別記事一覧](articles/taglist.md) (スマホ向け)
