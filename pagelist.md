@@ -59,6 +59,7 @@ authors:
 ## ま行
 * [豆知識](articles/2019/09/21/tips.html)
 * [豆知識まとめ(9月22日～9月29日)](articles/2019/09/29/tips2.html)
+* [豆知識まとめ(9月30日～10月26日)](articles/2019/10/26/tips3.html)
 * [村紹介](shisetsu/village.md)
 * [メインページ](README.md)
 
