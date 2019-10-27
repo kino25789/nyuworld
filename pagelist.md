@@ -54,7 +54,7 @@ authors:
 * [描画バグ、再び発生！](articles/2019/09/18/bug-again.html)
 * [描画バグ発生](articles/2019/09/18/bug.html)
 * [ビーコンのブロック盗難](articles/2019/09/22/beacon-theft.html)
-* [ピンクサタン教](articles/2019/10/17/pinncktha-thaan.html)
+* [ピンクサタン教](articles/2019/10/27/pinncktha-thaan.html)
 * [負荷分散計画](articles/2019/09/28/distribution-of-burden.html)
 * [ページ一覧](pagelist.md)
 
